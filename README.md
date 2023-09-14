@@ -42,12 +42,12 @@ ___
 ```Javascript
         
     let Jonael = G
-    
+```    
 
 
 ### This is the link I´ve been talking about:
 
-[A very cool website:] (https://www.my90stv.com/)
+[A very cool website indeed:] (https://www.my90stv.com/)
 -------------------------------------------------
 
 ## Tables
