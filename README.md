@@ -2,15 +2,12 @@
 ## Checkboxlist
 - [x] First card done  
 - [ ] All the rest..  
+## list page:
 
 1. get rich,
 2. get job,
 3. be successful
-
-
-1. get rich,
-2. get job,
-3. be successful
+-----------------
 
 ## Heading 2
 ### Heading 3
