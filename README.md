@@ -25,3 +25,6 @@
     
 ```
 
+## Inline link
+
+Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.
