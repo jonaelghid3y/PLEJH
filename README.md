@@ -49,6 +49,14 @@ ___
 
 Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.  
 
+## Continuing list
+
+7. This
+4. Is
+2. A
+6. List
+
+
 ## Supercript and Subscript
 H<sub>2</sub>0 is the chemical formula for water.  
 What is 2<sup>3</sup>?  
