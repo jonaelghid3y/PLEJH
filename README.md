@@ -1,10 +1,10 @@
-# PLEJH
+# PLEJH  
+## Checkboxlist  
+- [x] First __card__ done (with __bold__)
+- [ ] _All the rest.._  (with _italics_)
 
 ***
 
-## Checkboxlist
-- [x] First card done  
-- [ ] All the rest..
 
 
 ___
@@ -50,3 +50,25 @@ Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Ho
 
 ### Footnots
 [^1]: Super funny programmer meme
+
+## Nested List
+
+1. Item A
+    
+    1.  Item A
+    2. Item B
+    3. Item C
+
+2. Item B
+    
+    1. Item A
+    2. Item B
+    3. Item C
+
+
+
+## Strikethrough
+
+~~Striked out text~~
+
+
