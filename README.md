@@ -6,7 +6,13 @@
 
 ***
 
+<dl>
+ <dd>Term1</dd>
+ <dt>Term ones definition is bla bla bla...</dt>
 
+ <dd>Term2</dd>
+ <dt>Term twos definition is bla bla bla...</dt>
+</dl>
 
 ___
 
@@ -55,10 +61,21 @@ ___
 
 Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.  
 
-H<sub>2</sub>0 is the chemical formula for water.  
-What is 2<sup>3</sup>?
+## Continuing list
 
-### Footnots
+7. This
+4. Is
+2. A
+6. List
+
+
+## Supercript and Subscript
+H<sub>2</sub>0 is the chemical formula for water.  
+What is 2<sup>3</sup>?  
+
+## Inline code
+Best code ever: `<p>Hej</p>`
+
 [^1]: Super funny programmer meme
 
 ## Nested List
