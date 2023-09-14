@@ -47,3 +47,21 @@ ___
 ## Inline link
 
 Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.
+
+## Nested List
+
+1. Item A
+    
+    1.  Item A
+    2. Item B
+    3. Item C
+
+2. Item B
+    
+    1. Item A
+    2. Item B
+    3. Item C
+
+
+
+
