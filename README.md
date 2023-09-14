@@ -74,4 +74,6 @@ What is 2<sup>3</sup>?
 
 ~~Striked out text~~
 
+## Adding Blockquotes
 
+> Blockquote text
