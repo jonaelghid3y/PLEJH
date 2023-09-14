@@ -5,7 +5,13 @@
 
 ***
 
+<dl>
+ <dd>Term1</dd>
+ <dt>Term ones definition is bla bla bla...</dt>
 
+ <dd>Term2</dd>
+ <dt>Term twos definition is bla bla bla...</dt>
+</dl>
 
 ___
 
@@ -48,7 +54,6 @@ ___
 
 Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.
 
-### Footnots
 [^1]: Super funny programmer meme
 
 ## Nested List
