@@ -49,4 +49,26 @@ ___
 Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.  
 
 H<sub>2</sub>0 is the chemical formula for water.  
-What is 2<sup>3</sup>? 
+What is 2<sup>3</sup>?
+
+## Nested List
+
+1. Item A
+    
+    1.  Item A
+    2. Item B
+    3. Item C
+
+2. Item B
+    
+    1. Item A
+    2. Item B
+    3. Item C
+
+
+
+## Strikethrough
+
+~~Striked out text~~
+
+
