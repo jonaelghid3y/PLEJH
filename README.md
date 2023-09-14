@@ -1,4 +1,5 @@
-# PLEJH  
+<h1 id="heading1">PLEJH</h1>
+ 
 ## Checkboxlist  
 - [x] First __card__ done (with __bold__)
 - [ ] _All the rest.._  (with _italics_)
@@ -72,6 +73,9 @@ Best code ever: `<p>Hej</p>`
     2. Item B
     3. Item C
 
+## Link within document
+
+[Go to top](#heading1)
 
 
 ## Strikethrough
