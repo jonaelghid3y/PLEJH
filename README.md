@@ -1,7 +1,7 @@
 # PLEJH  
 ## Checkboxlist
-- [x] First card done  
-- [ ] All the rest..  
+- [x] __First card done__ (with __bold__)  
+- [ ] _All the rest.._  (with _italics_)
 
 ## Heading 2
 ### Heading 3
