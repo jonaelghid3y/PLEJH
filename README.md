@@ -12,7 +12,7 @@
 2. get job,
 3. be successful
 
-## Heading 2
+## Headers
 ### Heading 3
 #### Heading 4
 ##### Heading 5
