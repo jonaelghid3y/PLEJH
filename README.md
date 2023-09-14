@@ -1,4 +1,5 @@
-# PLEJH  
+<h1 id="heading1">PLEJH</h1>
+ 
 ## Checkboxlist  
 - [x] First __card__ done (with __bold__)
 - [ ] _All the rest.._  (with _italics_)
@@ -52,7 +53,10 @@ ___
 
 ## Inline link
 
-Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.
+Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.  
+
+H<sub>2</sub>0 is the chemical formula for water.  
+What is 2<sup>3</sup>?
 
 ### Footnots
 [^1]: Super funny programmer meme
@@ -71,6 +75,9 @@ Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Ho
     2. Item B
     3. Item C
 
+## Link within document
+
+[Go to top](#heading1)
 
 
 ## Strikethrough
