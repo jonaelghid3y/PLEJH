@@ -1,10 +1,10 @@
-# PLEJH
+# PLEJH  
+## Checkboxlist  
+- [x] First __card__ done (with __bold__)
+- [ ] _All the rest.._  (with _italics_)
 
 ***
 
-## Checkboxlist
-- [x] First card done  
-- [ ] All the rest..
 
 
 ___
