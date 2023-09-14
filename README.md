@@ -1,10 +1,10 @@
-# PLEJH
+# PLEJH  
+## Checkboxlist  
+- [x] First __card__ done (with __bold__)
+- [ ] _All the rest.._  (with _italics_)
 
 ***
 
-## Checkboxlist
-- [x] First card done  
-- [ ] All the rest..
 
 
 ___
@@ -63,5 +63,9 @@ Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Ho
     3. Item C
 
 
+
+## Strikethrough
+
+~~~Striked out text~~
 
 
