@@ -47,7 +47,10 @@ ___
 
 ## Inline link
 
-Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.
+Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.  
+
+H<sub>2</sub>0 is the chemical formula for water.  
+What is 2<sup>3</sup>?
 
 ### Footnots
 [^1]: Super funny programmer meme
