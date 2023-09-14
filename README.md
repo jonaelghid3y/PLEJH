@@ -27,6 +27,10 @@ ___
 1. get rich,
 2. get job,
 3. be successful
+
+    blablablabla
+
+4. continuing list
 ---
 
 
@@ -60,13 +64,6 @@ ___
 ## Inline link
 
 Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Hope it works.  
-
-## Continuing list
-
-7. This
-4. Is
-2. A
-6. List
 
 
 ## Supercript and Subscript
