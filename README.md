@@ -66,6 +66,6 @@ Hello, this is a [link](https://www.markdownguide.org/basic-syntax/#lists-1). Ho
 
 ## Strikethrough
 
-~~~Striked out text~~
+~~Striked out text~~
 
 
