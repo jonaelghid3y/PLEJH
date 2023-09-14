@@ -7,11 +7,11 @@
 ***
 
 <dl>
- <dd>Term1</dd>
- <dt>Term ones definition is bla bla bla...</dt>
+ <dt>Term1</dt>
+ <dd>Term ones definition is bla bla bla...</dd>
 
- <dd>Term2</dd>
- <dt>Term twos definition is bla bla bla...</dt>
+ <dt>Term2</dt>
+ <dd>Term twos definition is bla bla bla...</dd>
 </dl>
 
 ___
