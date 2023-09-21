@@ -1,4 +1,17 @@
 <h1 id="heading1">PLEJH</h1>
+
+
+Bokningsobjekt:
+- Tid + dag
+- Namn
+- Tjänst
+
+
+
+
+
+
+
  
 ## Checkboxlist  
 - [x] First __card__ done (with __bold__)
