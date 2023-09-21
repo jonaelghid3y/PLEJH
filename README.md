@@ -6,6 +6,11 @@ Bokningsobjekt:
 - Namn
 - Tjänst
 
+Pages:
+- Startsida (recension)
+- Tjänster
+- Bokning
+- (om oss)
 
 
 
